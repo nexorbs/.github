@@ -1,4 +1,9 @@
-# Política de Marcas Registradas (Versión en Español)
+# Trademark Policy
+
+This document is provided in English and Spanish.
+In case of conflict or inconsistency, the English version shall prevail.
+
+## Versión en Español
 
 ## Descripción General
 
@@ -130,11 +135,9 @@ confusión, tergiversación o daño a la marca NexOrbs.
 ## Contacto
 
 Para solicitudes de uso de marca o dudas relacionadas,
-contacta a NexOrbs a través de sus canales oficiales.
+contacta a NexOrbs a través de sus canales oficiales. 
 
---- 
-
-# Trademark Policy (English Version)
+## English Version
 
 ## Overview
 
