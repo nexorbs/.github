@@ -25,14 +25,18 @@ En conjunto, comunicamos:
 > NexOrbs no es solo un nombre: es la representación de cómo las ideas evolucionan cuando se conectan correctamente.
 
 ## ¿Quiénes somos? 
-En **NexOrbs** entendemos que cada proyecto es único. Nos dedicamos a brindar soluciones personalizadas en las áreas de:
 
-- **Desarrollo Web**: Páginas responsivas, escalables y optimizadas.
-- **Aplicaciones Móviles**: Apps intuitivas y de alto rendimiento para iOS y Android.
-- **Consultoría Tech**: Diagnóstico y propuestas para tus retos tecnológicos.
-- **Soluciones Integrales**: Desde idea hasta implementación y lanzamiento.
+En **NexOrbs** entendemos que cada proyecto es único. Somos un equipo de profesionales especializados dedicados a transformar ideas en realidades tecnológicas a través de soluciones personalizadas.
 
-Trabajamos con las últimas tecnologías para garantizar calidad y eficiencia.
+Creemos en un enfoque donde la tecnología se adapta a tu visión, no al revés. Trabajamos con las últimas herramientas y metodologías para garantizar calidad y eficiencia en cada desarrollo, acompañándote desde la concepción de la idea hasta su lanzamiento y más allá.
+
+**Nuestros pilares:**
+- 👥 **Equipo Experto**: Profesionales especializados en diversas tecnologías
+- 🎯 **Enfoque Personalizado**: Cada proyecto recibe una solución única
+- 🚀 **Tecnología de Vanguardia**: Rust, Vue.js, React, Flutter y más
+- ✨ **Calidad Garantizada**: Compromiso con resultados excepcionales
+
+Desde páginas web responsivas hasta aplicaciones móviles de alto rendimiento, ofrecemos el proceso completo con acompañamiento continuo post-implementación.
 
 ## ✅ Nuestros Servicios
 
