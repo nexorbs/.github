@@ -1,4 +1,140 @@
-# Trademark Policy
+# Política de Marcas Registradas (Versión en Español)
+
+## Descripción General
+
+El nombre **NexOrbs**, su(s) logotipo(s), ícono(s), marcas denominativas
+(wordmarks) y todos los elementos relacionados con la marca
+(en conjunto, las “Marcas”) son marcas registradas de **NexOrbs**.
+
+Esta política de marcas existe para proteger a usuarios, clientes y a la
+comunidad de posibles confusiones, y para garantizar que la marca NexOrbs
+se utilice de forma precisa, coherente y justa.
+
+Esta política se aplica de manera independiente a cualquier licencia
+de código abierto utilizada en los proyectos de software de NexOrbs.
+
+---
+
+## Relación con las Licencias de Código Abierto
+
+Salvo que se indique lo contrario, el código fuente publicado por NexOrbs
+está licenciado bajo los términos descritos en el archivo `LICENSE`
+de cada repositorio.
+
+**El nombre NexOrbs, su logotipo y los activos de marca NO están licenciados**
+bajo ninguna licencia de código abierto.
+
+Nada en la licencia del código otorga permiso para utilizar
+las marcas registradas de NexOrbs.
+
+---
+
+## Uso Permitido (Sin Autorización Previa)
+
+PUEDES utilizar las marcas de NexOrbs sin autorización previa por escrito
+únicamente en los siguientes casos:
+
+- Referirte a un proyecto o servicio de NexOrbs sin modificar
+- Enlazar a un repositorio o sitio web oficial de NexOrbs
+- Redactar artículos, tutoriales, reseñas o contenido educativo
+- Mostrar capturas de pantalla o videos de productos NexOrbs sin modificar
+- Mencionar a NexOrbs como dependencia, integración o referencia de
+  compatibilidad (por ejemplo, “Compatible con NexOrbs”)
+
+Todo uso permitido DEBE:
+- Ser veraz y no engañoso
+- Evitar implicar respaldo, asociación o patrocinio
+- Utilizar las marcas exactamente como se proporcionan, sin modificaciones
+
+---
+
+## Uso Restringido (Requiere Autorización)
+
+DEBES obtener autorización previa por escrito para:
+
+- Usar el nombre o logotipo de NexOrbs en el nombre de un producto,
+  servicio o empresa
+- Usar las marcas de NexOrbs con fines comerciales o promocionales
+- Usar la identidad de NexOrbs en publicidad o materiales de marketing
+- Usar las marcas de NexOrbs en mercancía (stickers, ropa, etc.)
+- Ofrecer servicios de pago, hosting o consultoría bajo el nombre NexOrbs
+- Usar logotipos modificados, animados, recoloreados o derivados
+- Sugerir respaldo, certificación o afiliación oficial
+
+---
+
+## Uso Prohibido
+
+NO PUEDES:
+
+- Modificar, distorsionar, recolorear o recrear el logotipo de NexOrbs
+- Usar elementos parciales del logotipo o de la marca denominativa
+- Usar las marcas de forma que genere confusión
+- Usar las marcas en contextos engañosos, ilegales o perjudiciales
+- Incorporar las marcas dentro de otro logotipo o marca
+- Registrar dominios, cuentas de redes sociales o aplicaciones que
+  contengan “NexOrbs” o variaciones confusamente similares
+- Usar las marcas de NexOrbs en forks sin una diferenciación clara
+
+---
+
+## Forks y Proyectos Derivados
+
+Los forks de los repositorios open source de NexOrbs están permitidos
+bajo la licencia de código abierto correspondiente.
+
+Sin embargo:
+
+- Los forks DEBEN usar un nombre y logotipo distintos
+- Los forks NO DEBEN presentarse como proyectos oficiales de NexOrbs
+- Los forks DEBEN declarar claramente que son proyectos independientes
+
+Ejemplo aceptable:
+
+> “Este proyecto es un fork de software de NexOrbs y no está
+> afiliado ni respaldado por NexOrbs.”
+
+---
+
+## Lineamientos de Uso del Logotipo
+
+Al utilizar activos oficiales del logotipo de NexOrbs:
+
+- Usa únicamente archivos oficiales del logotipo
+- No alteres proporciones, colores ni tipografía
+- Mantén un espacio libre adecuado alrededor del logotipo
+- Asegura suficiente contraste con el fondo
+- No coloques el logotipo sobre fondos visualmente cargados
+
+Escribir la palabra “NexOrbs” NO sustituye el uso del logotipo,
+salvo autorización expresa.
+
+---
+
+## Atribución
+
+Cuando sea apropiado, incluye el siguiente aviso:
+
+> “NexOrbs y el logotipo de NexOrbs son marcas registradas de NexOrbs.”
+
+---
+
+## Aplicación de la Política
+
+NexOrbs se reserva el derecho de revocar en cualquier momento el permiso
+para usar sus marcas si dicho uso viola esta política o puede causar
+confusión, tergiversación o daño a la marca NexOrbs.
+
+---
+
+## Contacto
+
+Para solicitudes de uso de marca o dudas relacionadas,
+contacta a NexOrbs a través de sus canales oficiales.
+
+--- 
+
+# Trademark Policy (English Version)
 
 ## Overview
 
